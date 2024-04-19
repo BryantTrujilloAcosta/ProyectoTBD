@@ -1,0 +1,79 @@
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+C:\Users\bryanttrujillo\source\repos\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+D:\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+D:\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+D:\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+D:\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\para el proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+E:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+E:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+E:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+E:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+D:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+D:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+D:\proyecto\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+D:\proyecto\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.consulta.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\bin\Debug\Conectividad.exe.config
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\bin\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\bin\Debug\Conectividad.pdb
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.Captura.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.consulta.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.Form1.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.Properties.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.exe
+C:\Users\braya\OneDrive\Escritorio\PROYECTOTDB - copia\Conectividad\Conectividad\obj\Debug\Conectividad.pdb
